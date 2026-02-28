@@ -1,0 +1,7 @@
+{
+  "name": "FeSA - Fast E-Service Access",
+  "description": "Une plateforme de mise en relation pour services rapides avec système de portefeuille intégré et administration complète.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
